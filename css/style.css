@@ -1,0 +1,13 @@
+video{
+    margin-top: 0px;
+    padding-left: 70px;
+    position: absolute;
+}
+.isi{
+    margin-right: 120px;
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    position: absolute;
+    margin: 10px 70px 0 460px;
+    padding-bottom: 70px;
+}
