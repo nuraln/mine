@@ -2,15 +2,14 @@
     background-color: bisque;
 }
 video{
-    margin-top: 50px;
     padding-left: 70px;
     position: absolute;
 }
 .isi{
     margin-right: 120px;
-    font-family: Geneva, Tahoma, sans-serif;
-    font-size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
     position: absolute;
-    margin: 10px 170px 0 460px;
+    margin: 0px 170px 0 460px;
     padding-bottom: 70px;
 }
